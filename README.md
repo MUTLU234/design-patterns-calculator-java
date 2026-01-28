@@ -14,19 +14,19 @@ Built as a portfolio project to demonstrate proficiency in **Java Backend Develo
 ## 📸 Application Screenshots
 
 ````carousel
-![Main Menu - Professional calculator interface with all operations](docs/images/main_menu_screenshot_1769623501820.png)
+![Main Menu - Professional calculator interface with all operations](docs/images/01-main-menu.png)
 <!-- slide -->
-![Addition Operation - 10 + 5 = 15 with execution time](docs/images/addition_result_1769623517879.png)
+![Addition Operation - 10 + 5 = 15 with execution time](docs/images/02-addition.png)
 <!-- slide -->
-![Division Operation - 20 / 5 = 4 demonstrated](docs/images/division_result_1769623533506.png)
+![Division Operation - 20 / 5 = 4 demonstrated](docs/images/03-division.png)
 <!-- slide -->
-![Power Calculation - 2^10 = 1024 advanced operation](docs/images/power_operation_1769623546763.png)
+![Power Calculation - 2^10 = 1024 advanced operation](docs/images/04-power.png)
 <!-- slide -->
-![Scientific Operation - sin(30°) = 0.5 trigonometry](docs/images/scientific_sine_1769623563216.png)
+![Scientific Operation - sin(30°) = 0.5 trigonometry](docs/images/05-scientific-sine.png)
 <!-- slide -->
-![Calculation History - View of 4 recorded calculations](docs/images/history_view_1769623580004.png)
+![Calculation History - View of 4 recorded calculations](docs/images/06-history.png)
 <!-- slide -->
-![Error Handling - Division by zero exception demonstration](docs/images/error_division_zero_1769623597557.png)
+![Error Handling - Division by zero exception demonstration](docs/images/07-error-division-by-zero.png)
 ````
 
 ---
